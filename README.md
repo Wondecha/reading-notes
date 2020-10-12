@@ -3,5 +3,6 @@
 
 _A growth mindset_ believes that one’s fundamental abilities can be developed through
 
-*perseverance and *
-*effort*
+-perseverance and
+
+-effort
