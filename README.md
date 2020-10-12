@@ -9,3 +9,6 @@ _A growth mindset_ believes that one’s fundamental abilities can be developed 
 -effort and
 
 -love of learning
+
+
+https://wondecha.github.io/reading-notes/
