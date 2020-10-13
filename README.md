@@ -1,4 +1,4 @@
-[home](https://wondwosentsige.github.io/reading-notes/)
+[Home](https://wondwosentsige.github.io/reading-notes/)
 
 
 # Reading notes for Codefellows
