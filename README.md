@@ -15,3 +15,10 @@ _A growth mindset_ believes that one’s fundamental abilities can be developed 
 
 
 https://github.com/WondwosenTsige/reading-notes
+[Revision and the Cloud](https://wondwosentsige.github.io/reading-notes/revisionandthecloud)
+
+[Revision and the Cloud](https://wondwosentsige.github.io/reading-notes/revisionandthecloud)
+
+[Revision and the Cloud](https://wondwosentsige.github.io/reading-notes/revisionandthecloud)
+
+[Revision and the Cloud](https://wondwosentsige.github.io/reading-notes/revisionandthecloud)
