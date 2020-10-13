@@ -1,1 +1,1 @@
-[learning Markdown](https://github.com/WondwosenTsige/reading-notes/learningmarkdown)
+[learning Markdown](https://wondwosentsige.github.io/reading-notes/learningmarkdown)
