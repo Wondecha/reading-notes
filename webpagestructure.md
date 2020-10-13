@@ -16,13 +16,13 @@ need to consider why they are coming. While
 some people will simply chance across your
 website, most will visit for a specific reason.
 
-● Are they looking for general
+-Are they looking for general
 entertainment or do they
 need to achieve a specific
 goal?
-● If there is a specific goal, is
+-If there is a specific goal, is
 it a personal or professional
 one?
-● Do they see spending time on
+-Do they see spending time on
 this activity as essential or a
 luxury?
