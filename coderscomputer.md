@@ -1,3 +1,7 @@
+
+[Coder's Computer](https://wondwosentsige.github.io/reading-notes/coderscomputer)
+
+
 # What is a text editor?
 
 *A text editor is a piece of software that you download and install on
