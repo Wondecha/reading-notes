@@ -1,5 +1,5 @@
 
-[Coder's Computer](https://wondwosentsige.github.io/reading-notes/coderscomputer)
+[Coders Computer](https://wondwosentsige.github.io/reading-notes/coderscomputer)
 
 
 # What is a text editor?
