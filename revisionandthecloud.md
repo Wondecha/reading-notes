@@ -25,14 +25,14 @@ Git is a DVCS that stores data in a file system made up of snapshots. Each time 
 
 ## Setting up a Git Repository
 
-*Importing
+Importing
 To import an existing project or directory into Git, follow these steps using the Terminal or Command Line:
 
-*Switch to the target project’s directory
+Switch to the target project’s directory
 Example:
 
 $ cd test (cd = change directory)
-*Use the git init command
+Use the git init command
 $ git init
 Note: At this stage, you have created a new subdirectory named .git that has the repository files. Tracking has not commenced.
 
